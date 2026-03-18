@@ -1,17 +1,16 @@
 """
-CP468 - A2
+CP468 A2
 
-"The overall structure and code commenting of this assignment were assisted by Claude Sonnet 4.6 (Anthropic, 2025), a large language 
-model. All algorithms, analysis, and written responses were reviewed and verified by the authors."
+"The overall structure and code commenting of this assignment were assisted by Claude Sonnet 4.6 (Anthropic, 2025), a 
+large language model. All algorithms, analysis, and written responses were reviewed and verified by the authors."
 
-Group Members:
-Ali Khairreddin, #169074484
-Adam Narciso, #169071458
+Ali Khairreddin, #169074484 
+Adam Narciso, #169071458 
 Daniel Gonzalez, #169060144 
 Lloyd Nsambu, #169113748
-Maor Ethan Chernitzky, #169107770
-Roneet Topiwala, #169048411
-Suleman Ali, #169044667
+Maor Ethan Chernitzky, #169107770 
+Roneet Topiwala, #169048411 
+Suleman Ali, #169044667 
 Zoya Adnan, #169063952 
 """
 
@@ -238,7 +237,7 @@ def q2_report(data_pts, labels, centroids, k=2):
 
 
 # ===================================================================
-#  PROBLEM 3 — Perceptron (Rain Prediction)
+#  PROBLEM 3 — Perceptron
 # ===================================================================
 
 def load_q3():
